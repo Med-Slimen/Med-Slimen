@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Amine Slimene  
 
-<!--
-**Med-Slimen/Med-Slimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year student in **Développement des Systèmes d’Information (DSI)** at **ISET Nabeul**  
+💻 Passionate about **Web Development**, **Databases**, and **Backend Systems**  
+🚀 Currently building real-world projects using **PHP, MySQL, HTML, CSS, and JavaScript**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🌱 I’m learning more about:
+  - PHP & MySQL (advanced CRUD, security, sessions)
+  - JavaScript for Frontend interactions
+  - MVC concepts and clean architecture
+- 🎯 My goal is to become a **professional full-stack web developer**
+- 📍 Based in Tunisia
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming & Web
+- HTML5  
+- CSS3  
+- JavaScript  
+- PHP  
+- MySQL
+- Java
+- Angular
+
+### ⚙️ Tools & Environments
+- Git & GitHub  
+- XAMPP  
+- phpMyAdmin  
+- VS Code  
+- Windows
+- Intellij
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Med-Slimen&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Slimen&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: *mohamedamineslimene01@gmail.com*
+- 💼 LinkedIn: *www.linkedin.com/in/mohamed-amine-slimene*
+- 🐙 GitHub: https://github.com/Med-Slimen  
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
