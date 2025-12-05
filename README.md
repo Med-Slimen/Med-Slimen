@@ -40,8 +40,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Med-Slimen&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Slimen&layout=compact)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med-Slimen&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Slimen&layout=compact&theme=default)
 
 ---
 
