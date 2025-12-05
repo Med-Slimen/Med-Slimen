@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mohamed Amine Slimene  
 
-🎓 2nd-year student in **Développement des Systèmes d’Information (DSI)** at **ISET Nabeul**  
-💻 Passionate about **Web Development** and **Programming**
-🚀 Currently building real-world projects using **PHP, MySQL, HTML, CSS, and JavaScript**
+🎓 2nd-year student in **Développement des Systèmes d’Information (DSI)** at **ISET Nabeul**
+💻 Passionate about **Web Development** and **Programming**  
+🚀 Currently building real-world projects using **PHP, MySQL, HTML, CSS, and JavaScript**  
 
 ---
 
