@@ -40,9 +40,11 @@
 
 ## 📈 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med-Slimen&show_icons=true&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Med-Slimen&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Slimen&layout=compact&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Med-Slimen&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Med-Slimen&theme=default)
 
 ---
 
